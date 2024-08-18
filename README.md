@@ -1,6 +1,7 @@
 # Step to Start Kafka and Zookeeper (CodeMyth Youtube Channel)
 
 Open command promt by going to kafka directory
+Below step need to follow for repository: https://github.com/CodeMythGit/ApacheKafkaTutorial/tree/main/SpringBootApacheKafka 
 
 ## Start Zookeeper
 bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
